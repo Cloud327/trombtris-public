@@ -1,0 +1,11 @@
+Can be used for troubleshooting
+
+block {
+    tiles = [100, 100, 100, 100, 100]
+    rot {
+        01-
+        -23
+        -4-
+    }
+}
+
